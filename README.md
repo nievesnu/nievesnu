@@ -3,9 +3,9 @@
 **Graduada en Ingeniería Informática (UCM) · Ciberseguridad · Blue Team / SOC, explorando también pentesting**  
 **Computer Engineering graduate (UCM) · Cybersecurity · Blue Team / SOC, also exploring pentesting**
 
-**ES** · Estoy construyendo una base sólida en ciberseguridad con laboratorios prácticos (TryHackMe), cursos de Cisco y Microsoft, y proyectos propios. Documento todo lo que hago: lo que aprendo, las herramientas que uso y cómo resuelvo cada problema.
+**ES** · Estoy construyendo una base sólida en ciberseguridad con laboratorios prácticos, cursos, y proyectos propios. Documento lo que hago: lo que aprendo, las herramientas que uso y cómo resuelvo cada problema.
 
-**EN** · I'm building a solid cybersecurity foundation through hands-on labs (TryHackMe), Cisco and Microsoft courses, and my own projects. I document everything I do: what I learned, the tools I used and how I solved each problem.
+**EN** · I'm building a solid cybersecurity foundation through hands-on labs, courses, and my own projects. I document everything I do: what I learned, the tools I used and how I solved each problem.
 
 ---
 
