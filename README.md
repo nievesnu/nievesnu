@@ -17,15 +17,6 @@
 | 🔍 [**Retos OSINT y CTF**](https://github.com/nievesnu/tryhackme-writeups#-ctf--osint-challenges--retos-ctf-y-osint) | Letter, Digital Footprint, Overheard at Breakfast: metadatos, geolocalización, archivos históricos y pivotar desde nombres de usuario. | Metadata, geolocation, archives and username pivoting. |
 | 🔎 [**Análisis de brechas reales**](https://github.com/nievesnu/cisco-netacad-cybersecurity/blob/main/intro-to-cybersecurity/breaches.md) | Tres brechas de 2025: qué se robó, el vector de ataque y cómo prevenirlo. | Three 2025 breaches: what was taken, the attack vector and how to prevent it. |
 
-## 🎓 Cursos y certificaciones · Courses & certifications
-
-| | Estado · Status | |
-|---|---|---|
-| Cisco NetAcad: **Introduction to Cybersecurity** | ✅ Certificada · Certified (2025) | [Apuntes y certificado · Notes & certificate](https://github.com/nievesnu/cisco-netacad-cybersecurity) |
-| TryHackMe: **Pre Security** y **Cyber Security 101** | 🔄 30+ rooms | [Write-ups](https://github.com/nievesnu/tryhackme-writeups) |
-| Microsoft Learn: **SC-900** Security, Compliance & Identity | 🔄 En curso · In progress | [Apuntes · Notes](https://github.com/nievesnu/microsoft-sc900-notes) |
-| Cisco NetAcad: **Endpoint Security** | 🔄 En curso · In progress | [Apuntes · Notes](https://github.com/nievesnu/cisco-netacad-cybersecurity/tree/main/endpoint-security) |
-
 ## 🛠️ Habilidades · Skills
 
 - **Redes · Networking:** OSI y TCP/IP, direccionamiento IP y subnetting, DNS, HTTP/HTTPS, LAN, ARP, DHCP, Nmap, Telnet, dig
