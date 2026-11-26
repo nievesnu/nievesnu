@@ -35,14 +35,6 @@
 - **Criptografía · Cryptography:** cifrado simétrico y asimétrico, RSA, Diffie-Hellman, hashing, OpenSSL, GPG, John the Ripper
 - **OSINT:** ExifTool, CyberChef, Wayback Machine, Google Maps, Gravatar / pivotar desde nombres de usuario
 
-## 🧭 Hoja de ruta · Roadmap
-
-`Pre Security` → `Cyber Security 101` → `SOC Level 1` → `Jr Penetration Tester`
-
-## 📁 Otros repositorios · Other repositories
-
-- [Computer Systems](https://github.com/nievesnu/Computer-Systems-Tietokonej-rjestelm-t): ejercicios en C · C exercises
-
 ## 📫 Contacto · Contact
 
 [![Email](https://img.shields.io/badge/nievesnunez99%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nievesnunez99@gmail.com)
