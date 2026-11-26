@@ -1,4 +1,4 @@
-# Hi, I'm Nieves · Hola, soy Nieves
+# Hola, soy Nieves · Hi, I'm Nieves
 
 **Graduada en Ingeniería Informática (UCM) · Ciberseguridad · Blue Team / SOC, explorando también pentesting**  
 **Computer Engineering graduate (UCM) · Cybersecurity · Blue Team / SOC, also exploring pentesting**
